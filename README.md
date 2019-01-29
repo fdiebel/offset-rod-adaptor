@@ -2,6 +2,8 @@
 
 A nifty little offset adaptor for 15mm diameter rods. It is a snug press fit and does not require mounting hardware. I use this to account for the offset mount on a Konvas 2m 35mm camera body.
 
+The offset is 24mm, but you can modify the source to make it whatever you need.
+
 ![Image](https://github.com/fdiebel/offset-rod-adaptor/blob/master/img/detail.jpg)
 
 ![Image](https://github.com/fdiebel/offset-rod-adaptor/blob/master/img/offset-rod-adaptor.jpg)
